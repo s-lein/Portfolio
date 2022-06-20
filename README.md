@@ -1,5 +1,3 @@
 # MeineProjekte
 
-Test! Test!
 
-Woohoo!
