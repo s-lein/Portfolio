@@ -1,7 +1,7 @@
 # Portfolio
 Willkommen auf meiner Portfolio-Webseite.
 
-![](https://github.com/s-lein/Portfolio/blob/main/Bilder/business-5475660_640.jpg)
+//![](https://github.com/s-lein/Portfolio/blob/main/Bilder/business-5475660_640.jpg)
 
 ## [Projekt 1: Beispiele Pandas](https://github.com/s-lein/Beispiele/blob/main/Beispiele%20Pandas.ipynb) 
 
